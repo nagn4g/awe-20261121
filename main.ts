@@ -1,3 +1,4 @@
+// Writes the contest entry to entry.txt: exactly 247 characters with no trailing newline.
 import * as fs from 'node:fs';
 
 const text = `On the dock, the water moves under you,
